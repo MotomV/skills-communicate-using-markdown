@@ -6,3 +6,4 @@
 ###### This is H6
 
 learn h1 tags.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
